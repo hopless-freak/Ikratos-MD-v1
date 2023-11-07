@@ -1,7 +1,7 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "SORA",
     "version": "1.7.0",
-    "description": "Ikratos-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
+    "description": "DED IG",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "KAZE"
     },
     "repository": {
         "type": "git",
