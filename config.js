@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '917012269306' //Nomor Danamu
+global.ppulsa = '917012268306' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '917012268306' //Nomor Bot
+global.nomorown = '919400413058' //Nomor Owner
+global.namebot = 'SORA' //Nama Bot
+global.nameown = 'KAZE' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,8 +65,8 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['919400413058', 'KAZE🎐', true] //don't change this name and number
+  ['919400413058', 'KAZE🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
@@ -105,26 +105,26 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '「 SORA 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘KAZE- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.footerTXT = `SORA • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +91 9400413058`
+global.fig = `Follow me on instagram:\n\t\tLOL NO ID`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ SORA'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.imgur.com/WOHGn1e.png'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumb = 'https://imgur.com/a/Irp4Umz' //Main Thumbnail
+global.thumb2 = 'https://imgur.com/a/200dqf6'
+global.thumbbc = 'hhttps://imgur.com/a/yRQuhOS' //For broadcast
+global.giflogo = 'https://imgur.com/a/Xsn2I8g'
+global.thumblvlup = 'https://imgur.com/a/RHYUido'
+global.hwaifu = ['https://imgur.com/a/UR7wStm']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -150,7 +150,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.thumbdoc = 'https://imgur.com/a/Irp4Umz'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '5644' // default 10TB
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
+global.stickpack = 'x_KAZE_x'
+global.stickauth = `「 SORA 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ SORA'
 
 global.multiplier = 38 // The higher, The harder levelup
 
